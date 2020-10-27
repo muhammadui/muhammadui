@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Muhammad from Nigeria.
+I'm fullstack developer and a Designer...
+<br />
+I 💖 Javascript Family.
 
 <!--
 **muhammadui/muhammadui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
