@@ -1,8 +1,11 @@
-# Muhammad Ibrahim Umar 👋
-I'm Muhammad from Nigeria .
-I'm fullstack developer 💻 and a Designer ✒...
+# **Muhammad Ibrahim Umar**
+## **Fullstack Developer | Designer**
+### I'm Muhammad from Nigeria .
+### I'm fullstack developer 💻 and a Designer ✒...
 <br />
-I 💖 Javascript Family.
+### I 💖 Javascript Family.
+#### - 📫 How to reach me: ...
+
 
 <!--
 **muhammadui/muhammadui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
