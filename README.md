@@ -1,6 +1,6 @@
-### Hi there 👋
-I'm Muhammad from Nigeria.
-I'm fullstack developer and a Designer...
+# Muhammad Ibrahim Umar 👋
+I'm Muhammad from Nigeria .
+I'm fullstack developer 💻 and a Designer ✒...
 <br />
 I 💖 Javascript Family.
 
