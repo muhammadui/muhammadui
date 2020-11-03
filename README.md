@@ -2,7 +2,6 @@
 ## **Fullstack Developer | Designer**
 ### I'm Muhammad from Nigeria .
 ### I'm fullstack developer 💻 and a Designer ✒...
-<br />
 ### I 💖 Javascript Family.
 #### - 📫 How to reach me: ...
 
