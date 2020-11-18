@@ -1,6 +1,5 @@
 # **Muhammad Ibrahim Umar**
-## **Fullstack Developer | Designer**
-### I'm fullstack developer 💻 and a Designer ✒....
+## **Fullstack Developer 💻| Designer ✒**
  Hello 👋, I'm Muhammad. A full-Stack Web Developer and UI/UX Designer
         based in Nigeria. <br />
         I 💖 working with Javascript, NodeJS, Figma, Adobe Xd, Firebase,
