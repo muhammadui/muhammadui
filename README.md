@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <br /> I'm Muhammad</h1>
-<h3 align="center">A full-Stack Web Developer and UI/UX Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>. I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, Firebase, Firestore, JS Animation libraries and Bootstrap. But i am always open to learn new technologies.</h3>
+<h3 align="center">A full-Stack Web Developer and UI/UX Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>   . . . <br /> I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, Firebase, Firestore, JS Animation libraries and Bootstrap. But i am always open to learn new technologies.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,7 +64,7 @@
 <a href="https://medium.com/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="muhammadui" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [muhammadui.netlify.app](muhammadui.netlify.app)
+- 👨‍💻 Watch out my Portfolio Site @ [muhammadui.netlify.app](here)
 
 - 💬 Ask me about **Javascript, PWAs**
 
@@ -72,17 +72,3 @@
 
 - 📄 Know about my experiences [cvlink.here](cvlink.here)
 
-<!--
-**muhammadui/muhammadui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
