@@ -25,6 +25,12 @@
 	<a href="https://nodejs.org" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 	</a>
+	<a href="https://www.python.org" target="_blank">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+	</a>
 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 	</a>
@@ -40,12 +46,7 @@
 	<a href="https://www.photoshop.com/en" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 	</a>
-	<a href="https://www.python.org" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	</a>
-	<a href="https://reactjs.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-	</a>
+	
 	<a href="https://www.figma.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 	</a>
