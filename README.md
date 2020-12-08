@@ -2,8 +2,8 @@
 <h3 align="center">A full-Stack Web Developer and UI/UX Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>   . . . <br /> I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, Firebase, Firestore, JS Animation libraries and Bootstrap. But i am always open to learn new technologies.</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left">Languages and Tools</h3>
+<p align="center">
 	<a href="https://www.w3.org/html/" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 	</a>
@@ -64,7 +64,7 @@
 <a href="https://medium.com/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="muhammadui" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 Watch out my Portfolio Site @ [muhammadui.netlify.app](here)
+- 👨‍💻 Watch out my Portfolio Site @ [https://muhammadui.netlify.app](here)
 
 - 💬 Ask me about **Javascript, PWAs**
 
