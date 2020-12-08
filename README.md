@@ -19,17 +19,8 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
-	<a href="https://d3js.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-	</a>
 	<a href="https://nodejs.org" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-	</a>
-	<a href="https://www.python.org" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	</a>
-	<a href="https://reactjs.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 	</a>
 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -64,11 +55,8 @@
 <a href="https://medium.com/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="muhammadui" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 Watch out my Portfolio Site @ [https://muhammadui.netlify.app](here)
+> - 💬 Ask me about **Javascript & Offline Apps**
 
-- 💬 Ask me about **Javascript, PWAs**
+> - 📫 How to reach me **muhammadbmw69@gmail**
 
-- 📫 How to reach me **muhammadbmw69@gmail**
-
-- 📄 Know about my experiences [cvlink.here](cvlink.here)
 
