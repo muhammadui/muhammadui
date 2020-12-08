@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <br /> I'm Muhammad</h1>
-<h3 align="center">A full-Stack Web Developer and UI/UX Designer based in Nigeria. I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, Firebase, Firestore, JS Animation libraries and Bootstrap. But i am always open to learn new technologies.</h3>
+<h3 align="center">A full-Stack Web Developer and UI/UX Designer based in Nigeria <img src="https://flagcdn.com/16x12/ng.png" background-color: none;>. I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, Firebase, Firestore, JS Animation libraries and Bootstrap. But i am always open to learn new technologies.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
