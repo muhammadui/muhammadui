@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <br /> I'm Muhammad</h1>
-<h3 align="center">A full-Stack Web Developer & UI/UX Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>   .. . . <br /> I 💖 working with Javascript, NodeJS, Figma, Ai, Xd,. But i am always open to learn new technologies.</h3>
-<h3 align="center"> Apart from coding and design, i'm currently studying Computer Science at ATBU Bauchi, Nigeria. <br />I love playing Football ⚽, Games 🎮, collaborating and helping people.
+<h3 align="center">A full-Stack Web Developer & UI/UX Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>  ... <br /> I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, But I am always open to learning new technologies.</h3>
+<h3 align="center"> Apart from coding and design, I'm currently studying Computer Science at ATBU Bauchi, Nigeria. <br />I love playing Football ⚽, Games 🎮, collaborating, and helping people.
 
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
@@ -8,7 +8,7 @@
 		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 	</a>
 	<a href="https://sass-lang.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
@@ -17,10 +17,13 @@
 		<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
 	<a href="https://nodejs.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+	</a>
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" width="40" height="40"/>
 	</a>
 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -47,7 +50,6 @@
 
 <a href="https://twitter.com/muhammadui_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammadui_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammadui" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.ibrahimumar.56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhammad.ibrahimumar.56" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadui_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muhammadui_" height="30" width="40" /></a>
 <a href="https://medium.com/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="muhammadui" height="30" width="40" /></a>
 </p>
