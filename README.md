@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <br /> I'm Muhammad</h1>
-<h3 align="center">A full-Stack Web Developer & UI/UX Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>  ... <br /> I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, But I am always open to learning new technologies.</h3>
+<h3 align="center">A full-Stack Web Developer & Product Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>  ... <br /> I 💖 working with Javascript, NodeJS, Figma, Ai, Xd, But I am always open to learning new technologies.</h3>
 <h3 align="center"> Apart from coding and design, I'm currently studying Computer Science at ATBU Bauchi, Nigeria. <br />I love playing Football ⚽, Games 🎮, collaborating, and helping people.
 
 <h3 align="left">Languages and Tools</h3>
