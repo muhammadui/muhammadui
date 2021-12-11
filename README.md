@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, <br /> I'm Muhammad</h1>
-<h3 align="center">A Software Engineer & Product Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>  ... 
-<h3 align="center"> Apart from coding and design, I'm currently studying Computer Science at ATBU Bauchi, Nigeria. <br />I love playing Football ⚽, Games 🎮, collaborating, and helping people.
+<h1 align="center">Hi 👋,<br /> I'm Muhammad</h1>
+<h3 align="center">I'm a Software Engineer & Product Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>  ... 
+<h3 align="center"> Apart from coding and design, I'm currently studying Computer Science at ATBU Bauchi. <br />I love playing Football ⚽, CTFs, Games 🎮, collaborating and helping people to grow their in their carrer.
 
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
@@ -12,6 +12,9 @@
 	</a>
 	<a href="https://sass-lang.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
+	</a>
+	<a href="https://sass-lang.com" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="sass" width="40" height="40"/>
 	</a>
 	<a href="https://getbootstrap.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
