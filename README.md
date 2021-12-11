@@ -59,6 +59,6 @@
 
 > - 💬 Ask me about **Javascript & Offline Apps**
 
-> - 📫 How to reach me **muhammadbmw69@gmail**
+> - 📫 How to reach me **website|coming soon**
 
 
