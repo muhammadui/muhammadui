@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,<br /> I'm Muhammad</h1>
 <h3 align="center">I'm a Software Engineer & Product Designer based in Nigeria <img src="https://flagcdn.com/24x18/ng.png" background-color: none;>  ... 
-<h3 align="center"> Apart from coding and design, I'm currently studying Computer Science at ATBU Bauchi. <br />I love playing Football ⚽, CTFs, Games 🎮, collaborating and helping people to grow in their carrer.
+<h3 align="center"> Apart from coding and design, I love playing Football ⚽, CTFs, collaborating and helping people to grow in their carrer.
 
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
@@ -51,14 +51,9 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 
-<a href="https://twitter.com/muhammadui_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammadui_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammadui" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadui_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muhammadui_" height="30" width="40" /></a>
-<a href="https://medium.com/muhammadui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="muhammadui" height="30" width="40" /></a>
-</p>
 
 > - 💬 Ask me about **Javascript & Offline Apps**
 
-> - 📫 How to reach me **website|coming soon**
+> - 📫 How to reach me - **muhammadui.dev**
 
 
