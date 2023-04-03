@@ -32,22 +32,6 @@ Software developer and Product designer with a passion for solving complex probl
 </div>
 
 
-### Projects
-
-1. **Zlance** 
-
-   **Description:** [Private - Under Dev.]
-
-   **Technologies Used:** 
-   
-   **Link:** 
-
-   **Short Description:**
-
-
-### Portfolio & Resume
-- Portfolio 
-- Resume
 
 
 ### Contact
